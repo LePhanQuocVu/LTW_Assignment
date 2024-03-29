@@ -1,0 +1,19 @@
+@media (max-width: 767px) {
+  #header-container {
+    height: 60px;
+    padding: 10px 0;
+  }
+  #nav-list{
+    position:absolute;
+    top:60px;
+    /* background: linear-gradient(180deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.6) 100%); */
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100%;
+    left: 0;
+    display: hidden;
+    transition: all .5s ease;
+  }
+  #nav-list li {
+    padding: 12px;
+  }
+}

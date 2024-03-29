@@ -1,0 +1,32 @@
+.slick-dots-bottom {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+/* const contentStyle = {
+  height: '500px',
+  color: '#fff',
+  lineHeight: '160px',
+  textAlign: 'center',
+  backgroundPosition: 'center',
+  backgroundSize: '100%',
+  backgroundRepeat: 'no-repeat'
+}; */
+
+@media screen {
+   .content_carousel{
+    height: 500px;
+  } 
+}
+@media screen and (min-width: 768px) and (max-width: 1028px) {
+  .content_carousel    {
+    height: 400px;
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .content_carousel {
+    height: 200px;
+    background-size: cover;
+  }
+}

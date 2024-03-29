@@ -1,0 +1,14 @@
+{
+  "hello": {
+    "1": "你好",
+    "2": "心潮"
+  },
+  "signin": "登入",
+  "signup": "报名",
+  "about": "介绍",
+  "home": "主页",
+  "contact": "接触",
+  "news": "消息",
+  "management": "管理",
+  "profile": "用户资料"
+}

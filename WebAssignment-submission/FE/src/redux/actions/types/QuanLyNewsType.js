@@ -1,0 +1,3 @@
+export const SET_DANH_SACH_NEWS = 'SET_DANH_SACH_NEWS'
+
+export const SET_CHI_TIET_NEWS = 'SET_CHI_TIET_NEWS'

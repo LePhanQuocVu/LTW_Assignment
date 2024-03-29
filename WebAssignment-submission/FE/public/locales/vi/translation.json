@@ -1,0 +1,14 @@
+{
+  "hello": {
+    "1": "Xin chào",
+    "2": "Xin chào"
+  },
+  "signin": "Đăng nhập",
+  "signup": "Đăng ký",
+  "about": "Giới thiệu",
+  "home": "Trang chủ",
+  "contact": "Liên hệ",
+  "news": "Tin tức",
+  "management": "Quản lý",
+  "profile": "Thông tin người dùng"
+}
